@@ -4,13 +4,12 @@ This repository contains the Requirements Engineering (RE) deliverables for Valu
 
 ## Quick Links (Latest)
 - **Analysing (BCIC) Debriefing Report:** [PrjTm_P2_1376T_PD108_Analysis_Report.pdf](02_Analysis/PrjTm_P2_1376T_PD108_Analysis_Report.pdf)
-- **Project Specification / SRS:** `01_Requirements/<FILE_NAME>.pdf`
+- **Software Requirements Specification (SRS):** `01_Requirements/<FILE_NAME>.pdf`
 - **iRTM (Traceability):** `04_Traceability/<FILE_NAME>.xlsx` (or `.pdf`)
 - **UML / Diagrams:** `03_Models/`
 - **Change Log / Open Issues:** `02_Analysis/Open_Issues.md`
 
 ## Repository Structure (CRaM – Contextually Relevant & Meaningful)
-- `00_README/` – this guide and navigation
 - `01_Requirements/` – SRS / Project Specification (baseline + revisions)
 - `02_Analysis/` – Analysing stage outputs (BCIC report, findings, open issues)
 - `03_Models/` – UML/PlantUML diagrams (use case, class, sequence), domain/data models
