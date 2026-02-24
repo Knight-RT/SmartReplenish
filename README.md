@@ -3,7 +3,7 @@
 This repository contains the Requirements Engineering (RE) deliverables for ValuPrice Pte Ltd’s Android Grocery Management App, **SmartReplenish**.  
 
 ## Quick Links (Latest)
-- **Analysing (BCIC) Debriefing Report:** `02_Analysis/<FILE_NAME>.pdf`
+- **Analysing (BCIC) Debriefing Report:** [PrjTm_P2_1376T_PD108_Analysis_Report.pdf](02_Analysis/PrjTm_P2_1376T_PD108_Analysis_Report.pdf)
 - **Project Specification / SRS:** `01_Requirements/<FILE_NAME>.pdf`
 - **iRTM (Traceability):** `04_Traceability/<FILE_NAME>.xlsx` (or `.pdf`)
 - **UML / Diagrams:** `03_Models/`
