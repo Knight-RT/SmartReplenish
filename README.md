@@ -22,7 +22,6 @@ This repository contains the Requirements Engineering (RE) deliverables for Valu
 - Technical Requirements: `TR-xx`
 - Incongruity Register items: `IR-xx` (issues found during BCIC)
 - Use Cases: `UC-xx` (if numbered; otherwise use case names)
-- Open Issues: `OI-xx` (ongoing unresolved decisions, if used separately from IR)
 - Change Requests: `CR-xx` (post sign-off changes)
 
 **Traceability rule:** Diagrams, checklists, and iRTM rows should reference the relevant IDs (e.g., `UC-02 ↔ BR-02 ↔ TR-07 ↔ IR-08`) to show impact and coverage.
