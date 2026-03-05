@@ -1,7 +1,6 @@
 # Business Rules Catalog
 
 **Purpose:** Central catalogue of Business Rules (BRs) supporting Section 6.5 (Figure C.5).  
-**Convention:** Each rule is written as an enforceable constraint starting with **“The system shall …”**.
 
 ---
 
