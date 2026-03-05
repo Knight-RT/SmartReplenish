@@ -105,6 +105,5 @@ Use this mini-template per NFR when you execute tests:
 
 ## 5. Repository Cross-References
 
-- Section 6 tables are consolidated in **Appendix C (Figures C.1–C.5)** in the report.
 - Quality scenarios are in: `02_Analysis/Quality_Attribute_Scenarios_McCall.md`
 - Business rules catalogue is in: `01_Requirements/Business_Rules_Catalog.md`
