@@ -4,7 +4,7 @@ This repository contains the Requirements Engineering (RE) deliverables for Valu
 
 ## Quick Links (Latest)
 - **Analysing (BCIC) Debriefing Report:** [PrjTm_P2_1376T_PD108_Analysis_Report.pdf](02_Analysis/PrjTm_P2_1376T_PD108_Analysis_Report.pdf)
-- **Software Requirements Specification (SRS):** [1376T_SmartReplenish_Software Requirements Specification.pdf](01_Requirements/1376T_SmartReplenish_Software%20Requirements%20Specification.pdf)
+- **Software Requirements Specification (SRS):** [1376T_SmartReplenish_SRS.pdf](01_Requirements/1376T_SmartReplenish_SRS.pdf)
 - **iRTM (Traceability):** [1376T_SmartReplenish_InceptiveRequirementsTraceabilityMatrix.xlsx](04_Traceability/1376T_SmartReplenish_InceptiveRequirementsTraceabilityMatrix.xlsx)
 - **UML / Diagrams:** `03_Models/`
 
