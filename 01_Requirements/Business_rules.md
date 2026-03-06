@@ -22,7 +22,7 @@
 | BR-12 | The system shall synchronize queued offline changes in chronological order (first-in, first-out) when connectivity is restored. | Ensures predictable outcomes and avoids out-of-order overwrites. | Offline Usage / Sync | Tech Lead |
 | BR-13 | The system shall detect a synchronization conflict when the same inventory record is modified both locally (offline) and on the server after the user’s last successful sync. | Prevents silent overwriting of newer data and enables controlled conflict handling. | Offline Usage / Sync | Tech Lead |
 | BR-14 | The system shall resolve synchronization conflicts by preserving the server value and prompting the user to either accept the server value or re-apply their queued offline change. | Prevents accidental overwriting of newer server data while allowing an informed user decision. | Offline Usage / Sync | BA / Tech Lead |
-| BR-15 | The system shall display the synchronization status of offline changes (e.g., Pending Sync, Syncing, Synced, Conflict—Action Required, Failed) to the user. | Improves transparency and prevents users from relying on stale or unsynchronized information. | Offline Usage / Sync Status | BA |
+| BR-15 | The system shall display the synchronization status of offline changes (e.g., Pending Sync, Syncing, Synced, Conflict/Failed) to the user. | Improves transparency and prevents users from relying on stale or unsynchronized information. | Offline Usage / Sync Status | BA |
 
 ---
 
