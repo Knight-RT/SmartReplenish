@@ -4,18 +4,16 @@ This repository contains the Requirements Engineering (RE) deliverables for Valu
 
 ## Quick Links (Latest)
 - **Analysing (BCIC) Debriefing Report:** [PrjTm_P2_1376T_PD108_Analysis_Report.pdf](02_Analysis/PrjTm_P2_1376T_PD108_Analysis_Report.pdf)
-- **Software Requirements Specification (SRS):** `01_Requirements/<FILE_NAME>.pdf`
-- **iRTM (Traceability):** `04_Traceability/<FILE_NAME>.xlsx` (or `.pdf`)
+- **Software Requirements Specification (SRS):** [1376T_SmartReplenish_Software Requirements Specification.pdf](01_Requirements/1376T_SmartReplenish_Software%20Requirements%20Specification.pdf)
+- **iRTM (Traceability):** [1376T_SmartReplenish_InceptiveRequirementsTraceabilityMatrix.xlsx](04_Traceability/1376T_SmartReplenish_InceptiveRequirementsTraceabilityMatrix.xlsx)
 - **UML / Diagrams:** `03_Models/`
-- **Change Log / Open Issues:** `02_Analysis/Open_Issues.md`
 
 ## Repository Structure (CRaM – Contextually Relevant & Meaningful)
 - `01_Requirements/` – SRS / Project Specification (baseline + revisions)
 - `02_Analysis/` – Analysing stage outputs (BCIC report, findings, open issues)
 - `03_Models/` – UML/PlantUML diagrams (use case, class, sequence), domain/data models
 - `04_Traceability/` – iRTM mapping PS ↔ SRS ↔ (planned) tests
-- `05_Solution_Design/` – UI flow sketches, architecture overview, interface assumptions (no code)
-- `06_Testing_Evidence/` – planned test cases + acceptance criteria mapped to FR/NFR (if applicable)
+- `05_Testing_Evidence/` – planned test cases + acceptance criteria mapped to FR/NFR (if applicable)
 
 ## ID Conventions (used in this repo)
 - Business Requirements: `BR-xx`
@@ -42,4 +40,4 @@ Artifacts (diagrams, iRTM rows, planned tests) should reference these IDs for tr
 
 ## Ownership / Contacts
 - Vendor team: 1376T
-- Date of last update: 11/2/2026
+- Date of last update: 6/3/2026
